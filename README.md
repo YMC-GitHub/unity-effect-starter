@@ -25,14 +25,7 @@
 
 ## how to use with developmet?
 
-run some cmd
-```sh
-#make gif image
-in="xx.mp4"
-ou="xx.gif"
-ffmpeg -i "$in" "$ou"
-
-```
+![gif:how to build](./screenshot/how-to-build.gif)
 
 ## Author
 
